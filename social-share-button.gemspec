@@ -23,6 +23,6 @@ Gem::Specification.new do |s|
   s.files       += %w(README.md CHANGELOG.md)
   s.add_development_dependency "rails"
   s.add_runtime_dependency "coffee-rails"
-  s.add_runtime_dependency "sass-rails"
+  s.add_runtime_dependency "sassc-rails"
   # s.add_runtime_dependency "rest-client"
 end
